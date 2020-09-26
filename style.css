@@ -76,7 +76,14 @@ line-height: -10;
   width 400px;
 }
 
+#bf2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: -10px;
+}
 
+nav{
+  float: right;
+}
 
 
 
