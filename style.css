@@ -27,4 +27,10 @@ font-family: sans-serif;
 line-height: -10;
 }
 
+#logo {
+  float: left;
+  margin-right: 5px;
+}
+
+
 
