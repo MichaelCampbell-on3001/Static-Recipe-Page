@@ -14,4 +14,12 @@ body {
   width: 100px;
 }
 
+.soc{
+  display: flex;
+  float: right;
+  margin-top: 45px;
+  position: absolute;
+
+}
+
 
