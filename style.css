@@ -50,5 +50,15 @@ line-height: -10;
 
 }
 
+#paper {
+  background-image: url("Assets/list-bg.png");
+}
+
+#content {
+  font-family: times;
+  font-size: 1em;
+  color: gray;
+}
+
 
 
