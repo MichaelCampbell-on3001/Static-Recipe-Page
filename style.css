@@ -42,6 +42,13 @@ line-height: -10;
 }
 
 #small-print {
-  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  float: right;
+  color: gray;
+  display: inline;
+  font-size: .5em;
+
 }
+
+
 
