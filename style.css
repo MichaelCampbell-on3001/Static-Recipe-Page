@@ -14,12 +14,17 @@ body {
   width: 100px;
 }
 
-.soc{
+.soc {
   display: flex;
   float: right;
   margin-top: 45px;
   position: absolute;
 
+}
+
+.bf {
+font-family: sans-serif;
+line-height: -10;
 }
 
 
