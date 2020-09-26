@@ -60,5 +60,23 @@ line-height: -10;
   color: gray;
 }
 
+#print {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  float: right;
+  width: 5px;
+}
+
+#list1 {
+  float: left;
+  width: 400px;
+}
+
+#list2 {
+  float: right;
+  width 400px;
+}
+
+
+
 
 
