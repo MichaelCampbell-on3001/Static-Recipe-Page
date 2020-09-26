@@ -23,7 +23,7 @@ body {
 }
 
 .bf {
-font-family: sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 line-height: -10;
 }
 
@@ -32,5 +32,16 @@ line-height: -10;
   margin-right: 5px;
 }
 
+#hero {
+  margin: 2px;
+}
 
+#cp {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: -10px;
+}
+
+#small-print {
+  
+}
 
