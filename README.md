@@ -1,2 +1,2 @@
-# Chocolate-Pizza-301
-Code Fellows 301 Chocolate Pizza Project
+# Static Recipe Page
+Recipe for Chocolate Pizza Project
